@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "kishanvavdara"
+  site-url: "https://kishan5111.github.io/kishanvavdara"
+  description: "Personal site"
+  repo-branch: main
+  repo-url: "https://github.com/kishan5111/kishanvavdara"
