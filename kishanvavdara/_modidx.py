@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://kishan5111.github.io',
                 'git_url': 'https://github.com/kishan5111/kishanvavdara',
                 'lib_path': 'kishanvavdara'},
-  'syms': {'kishanvavdara.core': {'kishanvavdara.core.foo': ('core.html#foo', 'kishanvavdara/core.py')}}}
+  'syms': { 'kishanvavdara.core': { 'kishanvavdara.core.foo': ('core.html#foo', 'kishanvavdara/core.py'),
+                                    'kishanvavdara.core.say_hello': ('core.html#say_hello', 'kishanvavdara/core.py')}}}
